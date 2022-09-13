@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory;
  * 
  * @author Radhya Sahal
  * @email radhya.sahal@gmail.com
- *  
+ *  2018
  *
  */
 public class Configuration {
