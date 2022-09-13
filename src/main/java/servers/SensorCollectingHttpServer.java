@@ -20,13 +20,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-
 /**
  * 
- * @author thulepham
- * @email thule.pham@insight-centre.org
- * @ Insight, NUIG
- * 28 Sep 2017
+ * @author Radhya Sahal
+ * @email radhya.sahal@gmail.com
+ *  2018
  *
  */
 public class SensorCollectingHttpServer {
